@@ -1,0 +1,1 @@
+We will release the source code of iCFTL-Diagnostics under an appropriate FOSS licence upon clearance from our legal department. iCFTL-Diagnostics is a tool proposed as part of the paper "Diagnosing Violations of Time-based Properties Captured in iCFTL", by Cristina Stratan, Joshua Heneage Dawes, and Domenico Bianculli, to appear in the proceedings of FormaliSE 2024.
