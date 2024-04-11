@@ -1,0 +1,9 @@
+*.json
+logs
+compiled_spec.py
+venv
+*.idea
+*.DS_Store
+*.egg-info
+test_program_uninstrumented_original.py
+__pycache__/

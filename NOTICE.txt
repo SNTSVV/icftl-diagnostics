@@ -1,0 +1,19 @@
+"iCFTL-Diagnostics" is under Copyright © [2023] – [2024] University of Luxembourg
+and is distributed under the Apache License, Version 2.0.
+
+Authors:
+    Cristina Stratan (cristina.stratan@uni.lu)
+    Joshua Heneage Dawes (joshua.dawes@uni.lu)
+    Domenico Bianculli (domenico.bianculli@uni.lu)
+
+
+Paper:
+    - "Diagnosing Violations of Time-based Properties Captured in iCFTL", FormaliSE 2024
+
+"iCFTL-Diagnostics" includes the following SnT (University of Luxembourg) or Third-party FOSS Code:
+    - SCFG (Apache 2.0)
+    - SCFGPython (Apache 2.0)
+    - SCSL (Apache 2.0) 
+    - code2flow (MIT)
+    - graphviz (MIT)
+    - antlr4-python3-runtime (BSD 3)

@@ -1,0 +1,7 @@
+*/PKG-INFO
+*.class
+*.java
+*.interp
+*.tokens
+*__pycache__*
+.DS_STORE

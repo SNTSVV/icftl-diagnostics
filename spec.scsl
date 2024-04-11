@@ -1,0 +1,6 @@
+for every q satisfying changes("x").during("test_program.py:p") {
+time to (
+    (
+        next after q satisfying changes("y").during("test_program.py:p")
+    )
+  ) from q < 0.2
